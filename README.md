@@ -14,7 +14,7 @@ First clone the repository:
 
 	git clone git@github.com:angrbrd/favorites-server.git
 	
-Then run the servers with the steps below:
+Then run the server with the steps below:
 	
 	cd favorites-server
 	node favorites-server.js
